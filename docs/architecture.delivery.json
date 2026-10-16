@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "05cee544-a72f-4270-902e-06816b55a27b",
+  "status": "current",
+  "command": "deliver",
+  "type": "architecture",
+  "input": "C:\\Users\\ALESSANDRO\\Desktop\\proyecto_informe_aplicaciones_moviles\\.archify\\architecture-sangui-20261006-023123\\candidate.json",
+  "output": "C:\\Users\\ALESSANDRO\\Desktop\\proyecto_informe_aplicaciones_moviles\\docs\\architecture.html",
+  "specification": {
+    "sha256": "e10faf57bbbd0fe93cd86d09d389b9b145736735a20cf814cb9ef0331866e8b9",
+    "bytes": 36497
+  },
+  "artifact": {
+    "sha256": "e6cb58beacd4950725afeb938a9bfebfce50a8cd2ae1b72fcf7c5931bcb58da7",
+    "bytes": 781255
+  }
+}
