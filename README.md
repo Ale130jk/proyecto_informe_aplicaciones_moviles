@@ -1,3 +1,2 @@
-# proyecto_informe_aplicaciones_moviles
+#Proyecto de flutter para una mype con firebase 
 
-A new Flutter project.
